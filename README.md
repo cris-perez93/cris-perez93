@@ -7,7 +7,7 @@ React es mi mejor aliado para crear nuevos proyectos.
 
 Desde siempre me ha apasionado el diseño en todos sus aspectos ,  y descrubir el diseño adaptado a la tecnologia web es bastante
 gratificante.
-En los proyectos que desarrollo intento que sean dinamicos, responsive, intituivos y rapidos.
+En los proyectos que desarrollo intento que sean dinamicos, responsive, intuitivos y rapidos.
 
 
 ## Skills
